@@ -1,0 +1,28 @@
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.deps.json
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.runtimeconfig.json
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.runtimeconfig.dev.json
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.dll
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.csprojAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.RazorAssemblyInfo.cache
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.RazorAssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.AssemblyInfoInputs.cache
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.AssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.RazorTargetAssemblyInfo.cache
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.pdb
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.dll
+d:\Documents\Visual Studio 2017\Projects\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.pdb
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.deps.json
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.runtimeconfig.json
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.runtimeconfig.dev.json
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.dll
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\bin\Debug\netcoreapp2.1\EapExample.pdb
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.csprojAssemblyReference.cache
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.csproj.CoreCompileInputs.cache
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.RazorAssemblyInfo.cache
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.RazorAssemblyInfo.cs
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.AssemblyInfoInputs.cache
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.AssemblyInfo.cs
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.RazorTargetAssemblyInfo.cache
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.dll
+C:\Users\dnzak\Desktop\EapExample\EapExample\EapExample\obj\Debug\netcoreapp2.1\EapExample.pdb
